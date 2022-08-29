@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>ejercicio 02/2-tablas en html</title>
+    </head>
+    <body>
+        <Table>
+            <tr>
+                <th>titulo</th>
+                <th>autor</th>
+                <th>año de publicacion</th>
+                <th>enlace a amazon</th>
+            </tr>
+            <tr>
+                <td>el secreto</td>
+                <td>rhonda byrne</td>
+                <td>2008</td>
+                <td ><a href="https://www.amazon.com/">EL SECRETO</a></td>
+            </tr>
+            <tr>
+                <td>el secreto 2</td>
+                <td>rhonda byrne</td>
+                <td>2012</td>
+                <td ><a href="https://www.amazon.com/">EL SECRETO 2</a></td>
+            </tr>
+            <tr>
+                <td>historias inconsientes</td>
+                <td>gabriel rolon</td>
+                <td>2013</td>
+                <td ><a href="https://www.amazon.com/">Historias inconsientes</a></td>
+            </tr>
+        </Table>
+    </body>
+</html>
